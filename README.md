@@ -35,8 +35,8 @@ _______
 
 <h3 align="left">✉️   Contact :</h3>
     <div align="left">
-        <h5>Email: jiwnee252@gmail.com</h5>
-        <h5>Blog: </h5>
+        <p>Email: jiwnee252@gmail.com</p>
+        <p>Blog: </p>
     </div>
 
 ###
