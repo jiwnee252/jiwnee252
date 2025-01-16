@@ -11,6 +11,7 @@
 <p align="left">SSAFY 13th (2025.01~ )<br>
 
 ###
+_______
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -25,10 +26,12 @@
 </div>
 
 ###
+_______
 
 <h3 align="left">✉️   Contact :</h3>
     <div align="left">
-        <h4>email: jiwnee252@gmail.com</h4>
+        <h5>email: jiwnee252@gmail.com</h5>
     </div>
 
 ###
+_______
