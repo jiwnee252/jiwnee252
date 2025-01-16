@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">SSAFY 13th (2025.01~ )<br>
 
 ###
 
@@ -26,12 +26,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">✉️   Contact :</h3>
+    <div align="left">
+        <h4>email: jiwnee252@gmail.com</h4>
+    </div>
 
 ###
